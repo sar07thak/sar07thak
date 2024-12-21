@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **HTML , CSS , TailwindCSS , JS , REACTJS**
+- 💬 Ask me about **HTML , CSS , TailwindCSS , JS , REACTJS , REACT-ROUTER **
 
 - 📫 How to reach me **sarthak75220@gmail.com**
 
